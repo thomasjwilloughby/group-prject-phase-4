@@ -124,6 +124,11 @@ final <- final |>
 
 ## 3.1 Methods
 
+The components of our multiple linear regression model are the following:
+
+* Outcome variable $y$ = Median Income
+* Numerical explanatory variable $x_1$ = Mean Debt at Graduation
+* Categorical explanatory variable $x_2$ = Level of Study
 
 
 ## 3.2 Model Results
