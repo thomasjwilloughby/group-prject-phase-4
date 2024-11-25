@@ -130,6 +130,7 @@ The components of our multiple linear regression model are the following:
 * Numerical explanatory variable $x_1$ = Mean Debt at Graduation
 * Categorical explanatory variable $x_2$ = Level of Study
 
+where the unit of analysis is a location (either all of Canada or one province) for a givven year, given that each row in our data corosponds to unique location and year.
 
 ## 3.2 Model Results
 
